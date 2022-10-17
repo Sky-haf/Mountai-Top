@@ -1,8 +1,11 @@
 header {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    justify-content: flex-start;
-    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2%;
+    background-color: darkblue;
+    color: white;
+  
 }
 
 .nav1 a {
@@ -29,6 +32,3 @@ p {
     justify-content: flex-start;
 }
 
-.WorkExperience {
-
-    }
